@@ -1,4 +1,4 @@
-# Face-Recognition-And-Web_Scraping
+# Face-Recognition-And-Web-Scraping
 ## Machine Learning on Face Recognition
 
 For analyzing visual imagery, Convolutional Neural Network or CNN which is a class of feed forward artificial neural network has been successfully used. It can be used also in video analysis, natural language processing etc. Here we’ll talk about Machine Learning on Face Recognition.
